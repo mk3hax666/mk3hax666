@@ -173,4 +173,8 @@
   </tr>
     
 </table>
-<h3 align="left">join us https://chat.whatsapp.com/EgF9SiJOFul8FCVFAvejHp</h3>
+<p>Untuk lebih lengkapnya, silahkan buka:
+            <a href="https://chat.whatsapp.com/EgF9SiJOFul8FCVFAvejHp">Join grup WhatsApp</a>
+        </p>
+    </body>
+</html>
