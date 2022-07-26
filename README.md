@@ -173,4 +173,4 @@
   </tr>
     
 </table>
-<h3 align="left">https://chat.whatsapp.com/EgF9SiJOFul8FCVFAvejHp</h3>
+<h3 align="left">join us https://chat.whatsapp.com/EgF9SiJOFul8FCVFAvejHp</h3>
