@@ -1,5 +1,5 @@
 <h1 align="left" id="mk3hax666 - title">halo saya mk3hax666</h1>
-<h3 align="left">Saya seorang mafia </h3>
+<h3 align="left">Saya seorang pengembang program and tools </h3>
 
  <table align="center">
   <tr>
