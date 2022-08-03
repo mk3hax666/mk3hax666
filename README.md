@@ -178,4 +178,4 @@
         </p>
     </body>
 </html>
-<font><h2>This team has nothing to do with the destruction of the website. Weakness tests can or pentests can't be done for crimes<font>
+<font><h2>Tim ini tidak ada hubungannya dengan perusakan website atau deface. Tes kelemahan bisa atau pentest tidak ada sangkut paut sama team ini untuk kejahatan<font>
