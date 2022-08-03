@@ -178,3 +178,4 @@
         </p>
     </body>
 </html>
+<font><h2>This team has nothing to do with the destruction of the website. Weakness tests can or pentests can't be done for crimes<font>
